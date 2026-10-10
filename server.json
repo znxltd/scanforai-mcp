@@ -10,7 +10,13 @@
     "source": "github"
   },
   "icons": [
-    { "src": "https://scanforai.com/icon-192.png", "mimeType": "image/png", "sizes": "192x192" }
+    {
+      "src": "https://scanforai.com/icon-192.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "192x192"
+      ]
+    }
   ],
   "remotes": [
     {
