@@ -34,7 +34,7 @@ Every call counts against your plan like a call to the REST API. A new account h
 
 ## Where things are
 
-- Documentation: https://scanforai.com/docs/api.html#mcp
+- Documentation: https://scanforai.com/mcp
 - Web app and API keys: https://app.scanforai.com
 - Endpoint: `https://api.scanforai.com/api/mcp` (MCP streamable HTTP, protocol revision 2025-03-26)
 
