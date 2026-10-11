@@ -3,7 +3,7 @@
   "name": "com.scanforai/scanforai",
   "title": "ScanForAI",
   "description": "Score text 0-100 for signs of AI writing, with plain reasons; strip machine typography.",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "websiteUrl": "https://scanforai.com/mcp?utm_source=mcp-registry",
   "repository": {
     "url": "https://github.com/znxltd/scanforai-mcp",
