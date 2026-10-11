@@ -3,7 +3,7 @@
   "name": "com.scanforai/scanforai",
   "title": "ScanForAI",
   "description": "Score text and web pages for signs of AI writing; check images for hidden AI instructions.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "websiteUrl": "https://scanforai.com/mcp?utm_source=mcp-registry",
   "repository": {
     "url": "https://github.com/znxltd/scanforai-mcp",

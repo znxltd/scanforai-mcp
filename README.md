@@ -10,7 +10,7 @@ and can be wrong in both directions. Never use a score alone to accuse a person.
 ## Add it
 
 1. Create a free account at https://app.scanforai.com/register?src=mcp and make an API key on the API keys page
-   (it starts with `at_sk_`).
+   (it starts with `at_sk_`). A key works only with a verified email address.
 2. Add the server:
 
    ```
